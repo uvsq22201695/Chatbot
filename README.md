@@ -28,6 +28,9 @@ python main.py
 To customize the chatbot, you can modify the following files:
 - icons/: This folder contains the icons for the chatbot. You can change the icons to whatever you want. The icon for the human is named "human.png," and the icon for the chatbot is named "robot.png."
 - main.py: This file contains the code for the chatbot. You can modify the code to customize the chatbot.
+- requirements.txt: This file contains the required libraries for the chatbot. You can add or remove libraries to customize the chatbot.
+- style.css: This file contains the CSS for the chatbot. You can modify the CSS to customize the chatbot.
+- ia.py: This file contains the code for the chatbot. You can modify the code to customize the chatbot.
 - data.json: This file contains the data for the chatbot. You can change the data to customize the chatbot.
 
 ## Contributing
